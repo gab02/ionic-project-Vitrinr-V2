@@ -1,0 +1,7 @@
+{
+  "name": "VITRINE",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
